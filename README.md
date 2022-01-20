@@ -1,4 +1,4 @@
 # test-repository
 
-Paolo was here!
+Paolo was here! Twice
 And Kalle too.
